@@ -65,3 +65,7 @@ section  {
         margin-right: 20px;
     }
 }
+header {
+    margin-left: 0;
+    margin-right: 0;
+}
