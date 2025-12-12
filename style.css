@@ -68,11 +68,8 @@ body {
 
 }
 
-@media(max-width: 600px) {
-    header  {
-        position:static;
-    }
-}
+
+
 section {
     margin-top: 20px;
 }
